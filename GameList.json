@@ -1,14 +1,20 @@
 [
 	{
-		"Name":"Helix Cat: Котик - Пружинка",
-		"Description":"Helix Cat — это классика в новой, кошачьей обёртке. Вместо привычного всем мяча вы играете за Котика, которого нужно спустить вниз.",
-		"GameUrl":"https://yandex.ru/games/play/171298",
-		"IconUrl":"https://avatars.mds.yandex.net/get-games/1881371/2a0000017af85b9573368a4e02d4b78ffcdd/pjpg268x268"
+		"Name": "Проект «Дыра»: Начало",
+		"Description": "Проект «Дыра»: Начало - расслабляющая казуальная трехмерная игра, в которой ваша единственная задача - очистить доску.",
+		"GameUrl": "https://yandex.ru/games/play/175642",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/1892995/2a0000017be9c46bf3659fe7c2164a833191/pjpg268x268"
 	},
 	{
-		"Name":"Super Cube 3D: 2048",
-		"Description":"Super Cube 3D: 2048 - это захватывающая кликер головоломка слияния чисел. Покажи нам, насколько ты хорош среди других головоломок!",
-		"GameUrl":"https://yandex.ru/games/play/170991",
-		"IconUrl":"https://avatars.mds.yandex.net/get-games/1881371/2a0000017aaa7c27b30a7cd9ed77e981996d/pjpg268x268"
+		"Name": "Helix Cat: Котик - Пружинка",
+		"Description": "Helix Cat — это классика в новой, кошачьей обёртке. Вместо привычного всем мяча вы играете за Котика, которого нужно спустить вниз.",
+		"GameUrl": "https://yandex.ru/games/play/171298",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/1881371/2a0000017af85b9573368a4e02d4b78ffcdd/pjpg268x268"
+	},
+	{
+		"Name": "Super Cube 3D: 2048",
+		"Description": "Super Cube 3D: 2048 - это захватывающая кликер головоломка слияния чисел. Покажи нам, насколько ты хорош среди других головоломок!",
+		"GameUrl": "https://yandex.ru/games/play/170991",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/1881371/2a0000017aaa7c27b30a7cd9ed77e981996d/pjpg268x268"
 	}
 ]
