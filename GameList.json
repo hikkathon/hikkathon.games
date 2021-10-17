@@ -1,5 +1,11 @@
 [
 	{
+		"Name": "Цветные Блоки",
+		"Description": "Простая головоломка по мотивам тетриса. Вам даются случайные фигуры.",
+		"GameUrl": "https://yandex.ru/games/play/176018",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/1892995/2a0000017c7d0a7c67e4cc38abc73ef66ca0/pjpg268x268"
+	},
+	{
 		"Name": "Супер Ящик 3D: 2048",
 		"Description": "Можешь не скрывать, я знаю, что тебе нравятся головоломки и игры 2048!",
 		"GameUrl": "https://yandex.ru/games/play/170463",
