@@ -1,5 +1,17 @@
 [
 	{
+		"Name": "Робот Шутер",
+		"Description": "Главная задача - перестрелять всех вражеских роботов и оставаться в живых как можно дольше. ",
+		"GameUrl": "https://yandex.ru/games/play/177240",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/2977039/2a0000017eca519b58b4fed466687fa33326/pjpg268x268"
+	},
+	{
+		"Name": "Color Баскетбол",
+		"Description": "Бросай мяч в корзину того же цвета, что и мяч. Зарабатывай очки, бей рекорды за отведенное время. Тренируй внимание и реакцию.",
+		"GameUrl": "https://yandex.ru/games/play/171336",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/3006389/2a0000017e920f51dab74a1e745f97614dbe/pjpg268x268"
+	},
+	{
 		"Name": "Цветные Блоки",
 		"Description": "Простая головоломка по мотивам тетриса. Вам даются случайные фигуры.",
 		"GameUrl": "https://yandex.ru/games/play/176018",
