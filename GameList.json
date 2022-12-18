@@ -1,5 +1,11 @@
 [
 	{
+		"Name": "Филворд Майнкрафт",
+		"Description": "Игра викторина всем любителям Майнкрафт!",
+		"GameUrl": "https://yandex.ru/games/app/196497",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/1892995/2a00000184e8661d87f09644c70ed54f6afb/pjpg268x268"
+	},
+	{
 		"Name": "Пингви",
 		"Description": "Ты - пингвин, который должен бежать!",
 		"GameUrl": "https://yandex.ru/games/play/200083",
