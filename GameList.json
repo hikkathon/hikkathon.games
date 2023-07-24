@@ -1,5 +1,11 @@
 [
 	{
+		"Name": "Мастер число",
+		"Description": "Соберите самое большое число и разбейте все стены!",
+		"GameUrl": "https://yandex.ru/games/app/233232",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/1890793/2a0000018887450e3fd7682b752cd0cd057c/pjpg268x268"
+	},
+	{
 		"Name": "Филворд Майнкрафт",
 		"Description": "Игра викторина всем любителям Майнкрафт!",
 		"GameUrl": "https://yandex.ru/games/app/196497",
