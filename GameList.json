@@ -1,5 +1,11 @@
 [
 	{
+		"Name": "Гарем иного мира",
+		"Description": "Собирай игровую валюту, прокачивай навыки сбора, чтобы получать гораздо больше монет. Собери всех персонажей в свой гарем.",
+		"GameUrl": "https://yandex.ru/games/app/239305",
+		"IconUrl": "https://avatars.mds.yandex.net/get-games/1892995/2a000001899363bb1e049bca2431c5c0de06/pjpg256x256"
+	},
+	{
 		"Name": "Мастер число",
 		"Description": "Соберите самое большое число и разбейте все стены!",
 		"GameUrl": "https://yandex.ru/games/app/233232",
